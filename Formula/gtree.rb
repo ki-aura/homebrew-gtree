@@ -1,8 +1,8 @@
 class Gtree < Formula
   desc "Tyler Directory Tree"
   homepage "https://github.com/ki-aura/gtree"
-  url "https://github.com/ki-aura/gtree/archive/refs/tags/v2.1.4.tar.gz"
-  sha256 "df5de6babe3178751344f8262c7d5dcd71c8599502419b9a8dc9714c78d4d7e4"
+  url "https://github.com/ki-aura/gtree/archive/refs/tags/v2.2.0.tar.gz"
+  sha256 "88ff35abeecf8da0ed380f9f4c43dd2caf268ca49ef21883b075e35c5d73b0a7"
   license "MIT"
 
   def install
